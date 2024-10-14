@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\6.2it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EAAB4B-F5F3-443F-B10D-6964A3B695F3}|6.2it\\6.2it.vcxproj|C:\\Users\\USER\\source\\repos\\6.2it\\6.2it\\6.2it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7EAAB4B-F5F3-443F-B10D-6964A3B695F3}|6.2it\\6.2it.vcxproj|solutionrelative:6.2it\\6.2it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4BF157-7010-4B4B-95A4-DF06B1F29B05}|UnitTest_6.2_it\\UnitTest_6.2_it.vcxproj|C:\\Users\\USER\\source\\repos\\6.2it\\UnitTest_6.2_it\\UnitTest_6.2_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F4BF157-7010-4B4B-95A4-DF06B1F29B05}|UnitTest_6.2_it\\UnitTest_6.2_it.vcxproj|solutionrelative:UnitTest_6.2_it\\UnitTest_6.2_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_6.2_it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.2it\\UnitTest_6.2_it\\UnitTest_6.2_it.cpp",
+              "RelativeDocumentMoniker": "UnitTest_6.2_it\\UnitTest_6.2_it.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.2it\\UnitTest_6.2_it\\UnitTest_6.2_it.cpp",
+              "RelativeToolTip": "UnitTest_6.2_it\\UnitTest_6.2_it.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T15:41:55.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6.2it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\6.2it\\6.2it\\6.2it.cpp",
+              "RelativeDocumentMoniker": "6.2it\\6.2it.cpp",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\6.2it\\6.2it\\6.2it.cpp",
+              "RelativeToolTip": "6.2it\\6.2it.cpp",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-14T14:21:47.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
